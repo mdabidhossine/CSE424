@@ -1,10 +1,10 @@
-Individual_Submitter: Md. Abid Hossine_20301392
+**Individual_Submitter:** Md. Abid Hossine_20301392
 
-Group_Number: 35
+**Group_Number:** 35
 
-Pattern Recognition
+**Course_Title:** Pattern Recognition
 
-Paper_title: Detection of Traffic Violations of Road Users Based on Convolutional Neural Networks
+**Paper_Title:** Detection of Traffic Violations of Road Users Based on Convolutional Neural Networks
 
-Link to the paper: https://ieeexplore.ieee.org/document/8586996 
+**Link_to_the_paper: https:** //ieeexplore.ieee.org/document/8586996 
 
